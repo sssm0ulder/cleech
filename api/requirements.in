@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pyrogram
+requests
+tortoise-orm[psycopg]
+asyncpg
+aerich
+PyJWT
